@@ -7,7 +7,6 @@ docuemnt.addEventListener('DOMContentLoaded', function() {
 			<button class="padIcon" onClick="openTab('appstore-timer')"><img class="padImage" src="systemH/appstore/timer/timer.png"></button>
 			<button class="padIcon" onClick="openTab('appstore-dog')"><img class="padImage" src="systemH/appstore/petdog/petdog.png"></button>
 			<button class="padIcon" onClick="openTab('appstore-new')"><img class="padImage" src="systemH/appstore/new.png"></button>
-		</div>
 		<div class="tabcontent" id="appstore-clicker">
 			<center>
 				<h1>Universe Clicker</h1>
